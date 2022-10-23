@@ -1,6 +1,6 @@
 # DIY-Solid-State-Relay-module
 This is the solid state relay which is same as sugar cube relays available in market, These SSR based on electronics switching.
-Get more info from here:
+Get more info from here: https://www.hackster.io/electroboy001/diy-solid-state-relay-module-e170f3
 
 Relays are the most useful and stable AC power switching components. Relays provide complete  isolation of DC operating voltage from AC mains. The regular size of relays is big because of mechanical moving actuator and a coil. The coil forms an electromagnet which then used to attract the metal actuator points and thus turn on the AC power. The most popular relay SPDT (single pole double throw) has 5 terminals, 2 for the coil and 3 for the mains connections. NO (Normally open), NC (Normally closed) and COM (common point).
 
